@@ -4,7 +4,7 @@ This script dumps the ACPI tables on a Windows system.
 
 ## Prerequisites
 
-You must have the `acpi-view` tool installed. You can download it from [https://www.uwe-sieber.de/acpi-view_e.html](https://www.uwe-sieber.de/acpi-view_e.html). Make sure `acpi-view.exe` is in your system's PATH.
+You must have the `acpi-view` tool installed. You can find it by searching for "acpi-view" on your favorite search engine. Make sure `acpi-view.exe` is in your system's PATH.
 
 ## Usage
 
